@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: black;
+}
+.mycard {
+    background-color: rgb(34, 74, 146);
+}
+.gamecar,
+.detailcar{
+    background-color: rgb(17, 35, 70);
+    color: white;
+}
