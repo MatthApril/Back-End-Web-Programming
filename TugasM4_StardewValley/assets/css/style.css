@@ -1,0 +1,113 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(180deg, #000000, #30216b,  #432f95);
+}
+.home-con,
+.create-con {
+    background: #f9ba7a;
+    border: 4px solid #e69138;
+    border-radius: 15px;
+}
+
+.home-con {
+    width: 650px;
+    padding: 2rem;
+}
+
+.create-con {
+    width: 500px;
+    padding: 2rem 1.8rem;
+}
+.light-green{
+    color: #639d4a;
+    font-weight: 900;
+    text-shadow: #0000003c 0px 2px 4px;
+}
+h2 {
+    font-size: 4.5rem;
+}
+h3 {
+    font-size: 2.8rem;
+}
+h4 {
+    font-size: 2.2rem;
+}
+.myBtn{
+    background: linear-gradient(180deg, #6aa84f, #38761d);
+    color: white;
+    font-weight: 700;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    border-radius: 10px;
+    transition: 0.2s ease;
+}
+.myBtn:hover{
+    box-shadow: #000000bc 0px 2px 7px 1px inset;
+    cursor: pointer;
+}
+
+.myBtn span{
+    font-size: 0.9rem;
+}
+
+.inner-save,
+.inner-create-save{
+    background:#ffd9b0;
+    border-radius: 10px;
+    border: 1px solid #e69138;
+    box-shadow: #0000004e 0px 4px 10px 0.5px;
+}
+.inner-save {
+    width: 85%;
+    padding: 1.5rem 1.5rem 1.8rem 1.5rem;
+}
+
+.inner-create-save{
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+}
+
+.dark-green {
+    color: #4b9a29;
+}
+
+i.bi.bi-inbox-fill {
+    font-size: 50px;
+}
+
+.save-text {
+    font-size: 0.8rem;
+}
+
+.save-box {
+    padding: 1rem;
+    width: 445px;
+    border: 2px solid #4b9a29;
+    border-radius: 10px;
+    background: #36891282;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.create-input{
+    border: 2px solid #4b9a29;
+}
+.create-input::placeholder {
+    color: #7e7e7e;
+}
+
+.menu-btn {
+    background: #ffd9b0;
+    border: 2px solid #4b9a29;
+    color: #4b9a29;
+}
+
+.total-earned {
+    font-size: 1.2rem;
+    background: linear-gradient(270deg, #eaae17, #ffd700);
+    color: rgb(97, 72, 3);
+    font-weight: 400;
+}
