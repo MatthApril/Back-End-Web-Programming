@@ -1,0 +1,159 @@
+/* --- Pokémon Type Colors --- */
+.bg-normal {
+  background-color: #9CA3AF;
+}
+
+.bg-fire {
+  background-color: #EF4444;
+}
+
+.bg-water {
+  background-color: #3B82F6;
+}
+
+.bg-electric {
+  background-color: #FACC15;
+}
+
+.bg-grass {
+  background-color: #22C55E;
+}
+
+.bg-ice {
+  background-color: #22D3EE;
+}
+
+.bg-fighting {
+  background-color: #B91C1C;
+}
+
+.bg-poison {
+  background-color: #A855F7;
+}
+
+.bg-ground {
+  background-color: #A16207;
+}
+
+.bg-flying {
+  background-color: #818CF8;
+}
+
+.bg-psychic,
+.bg-pink {
+  background-color: #EC4899;
+}
+
+.bg-bug {
+  background-color: #84CC16;
+}
+
+.bg-rock {
+  background-color: #854D0E;
+}
+
+.bg-ghost {
+  background-color: #6B21A8;
+}
+
+.bg-dragon {
+  background-color: #4338CA;
+}
+
+.bg-dark {
+  background-color: #1F2937;
+}
+
+.bg-steel {
+  background-color: #6B7280;
+}
+
+.bg-fairy {
+  background-color: #F9A8D4;
+}
+
+/* --- Item Type Colors --- */
+
+.bg-medicine {
+  background-color: #F87171;
+}
+
+.bg-poké-balls {
+  background-color: #60A5FA;
+}
+
+.bg-evolution {
+  background-color: #C084FC;
+}
+
+.bg-berries {
+  background-color: #4ADE80;
+}
+
+.bg-vitamins {
+  background-color: #F472B6;
+}
+
+.bg-battle-items,
+.bg-orange {
+  background-color: #FB923C;
+}
+
+.bg-other-items {
+  background-color: #9CA3AF;
+}
+
+/* Custom */
+
+.text-shadow {
+  text-shadow: 0px 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.bg-navy {
+  background-color: #1e2c3a;
+}
+
+.border-navy {
+    border-color: #1e2c3a !important;
+}
+
+.bg-regular {
+    background-color: #e6f1ff;
+    color: #1545ac;
+    border: 2px solid #aed2ff;
+    padding: 0.5rem 1.25rem;
+    font-weight: 600;
+}
+.bg-hidden {
+  background-color: #f3e8ff;
+  color: #7e22ce;
+  border: 2px solid #e0c2ff;
+  padding: 0.5rem 1.25rem;
+  font-weight: 600;
+}
+
+.bg-price {
+    background-color: #fff9e6;
+    border: 2px solid #fae291;
+}
+
+.bg-sell {
+    background-color: #ffffff;
+    border: 2px solid #e4e4e4;
+}
+
+.text-price {
+    color: #b27d00;
+}
+
+.text-sell {
+    color: #2f3060;
+}
+
+.text-orange {
+    color: #fb923c;
+}
+
+.text-pink {
+    color: #EC4899;
+}
