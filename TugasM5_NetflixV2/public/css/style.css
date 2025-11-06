@@ -1,0 +1,34 @@
+.home-body {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../asset_tugas/jumbotron.jpg');
+    background-size: cover;
+    background-position: center;
+}
+input.formKu::placeholder,
+input.myForm::placeholder{
+    color: grey;
+}
+input.formKu{
+    width: 375px;
+}
+input.myForm{
+    width: 320px;
+}
+
+.film-body{
+    background-color: #831010 ;
+    min-height: 100vh;
+}
+.card {
+    background-color: black;
+    color: white;
+}
+.card .card-img-top {
+  height: 520px; /* Adjust this value to your liking */
+  object-fit: cover; /* This is the magic property */
+
+}
+.img-bg {
+    background-color: #831010;
+}
